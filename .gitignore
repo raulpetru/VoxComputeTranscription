@@ -1,0 +1,7 @@
+venv/
+.idea/
+__pycache__/
+/scripts/secret_keys.py
+/scripts/output.log
+/run_app.bat
+/silet_run.vbs
